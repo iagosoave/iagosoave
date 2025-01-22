@@ -2,7 +2,7 @@
 
 ###
 
-<p align="left">Sou estudante de Análise e Desenvolvimento de Sistemas no Centro Universitário FACENS. Tenho uma paixão por desenvolvimento backend, com foco especial em Spring Boot. Meu objetivo é me tornar um desenvolvedor backend qualificado, e estou sempre trabalhando em projetos e aprendendo novas tecnologias para alcançar isso.<br><br>🔭 Atualmente, estou aprendendo Spring Boot e outras tecnologias de backend.<br>🌱 Sempre explorando novas ferramentas e boas práticas no desenvolvimento de software.<br>🎯 Aspirante a conquistar minha primeira oportunidade como Desenvolvedor Backend.</p>
+<p align="left">Sou estudante de Análise e Desenvolvimento de Sistemas no Centro Universitário FACENS. Tenho uma paixão por desenvolvimento frontend, com foco especial em ReactJS. Meu objetivo é me tornar um desenvolvedor frontend qualificado, e estou sempre trabalhando em projetos e aprendendo novas tecnologias para alcançar isso.<br><br>🔭 Atualmente, estou aprendendo ReactJS e outras tecnologias de frontend.<br>🌱 Sempre explorando novas ferramentas e boas práticas no desenvolvimento de interfaces modernas e responsivas.<br>🎯 Aspirante a conquistar minha primeira oportunidade como Desenvolvedor Frontend.</p>
 
 ###
 
@@ -11,17 +11,19 @@
 ###
 
 <div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" height="40" alt="spring logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" alt="html5 logo"  />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="40" alt="java logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40" alt="css3 logo"  />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="40" alt="mysql logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-original-wordmark.svg" height="40" alt="tailwindcss logo"  />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" height="40" alt="postgresql logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="javascript logo"  />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" height="40" alt="docker logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="40" alt="typescript logo"  />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="python logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="40" alt="nodejs logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="40" alt="react logo"  />
 </div>
 
 ###
@@ -48,17 +50,3 @@
 </div>
 
 ###
-<!--
-**iagosoave/iagosoave** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
